@@ -7,3 +7,4 @@ pyqtdeploy
 PyQtWebEngine
 QScintilla
 qtwidgets
+pyrebase
